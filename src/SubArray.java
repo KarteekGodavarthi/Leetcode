@@ -8,7 +8,7 @@ import java.util.*;
          ListNode(int val, ListNode next) { this.val = val; this.next = next; }
         }
 
-public class App {
+public class SubArray {
     public static void main(String[] args) throws Exception {
         int[] m = {-2,1,-3,4,-1,2,1,-5,4};
         maxSubArray(m);
